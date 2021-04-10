@@ -445,6 +445,11 @@ footer{
         /* 860px */
 
 @media screen and (max-width: 860px){
+        /* HEADER */
+    header{
+        background-position-x: center;
+    }
+
         /* SECTION 2 */
     .photoHolder{
         width: 35%;
@@ -810,7 +815,7 @@ footer{
         width: 22.25rem;
         height: 33rem;
         top: -3.5rem;
-        right: -2.4rem;
+        right: -2.2rem;
     }
 
     .respMenu .respNav-item{
