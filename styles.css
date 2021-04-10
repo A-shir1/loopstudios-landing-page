@@ -812,14 +812,14 @@ footer{
 
 @media screen and (max-width: 375px){
     .closeResp .respMenu{
-        width: 22.25rem;
+        width: 24rem;
         height: 33rem;
         top: -3.5rem;
-        right: -2.2rem;
+        right: -2.5rem;
     }
 
     .respMenu .respNav-item{
-        margin: 1rem 2.5rem;
+        margin: 1rem 4.5rem;
     }
 
     /* resp section 2 */
